@@ -126,7 +126,7 @@ Benutze den Schrittmotor zum Öffnen und Schließen der Bionic Flower.
 *	Warte 1s.
 
 # Aufgabe 5: Integriere den Lichtsensor
-<br> Der Lichtsensor ermöglicht die Messung der Umgebungshelligkeit. Dieser Sensor kommuniziert über das I2C-Protokoll, er nutzt also die Pins SCL und SDA. 
+Der Lichtsensor ermöglicht die Messung der Umgebungshelligkeit. Dieser Sensor kommuniziert über das I2C-Protokoll, er nutzt also die Pins SCL und SDA. 
 <br><img src="../img/Bee_light_sensor.JPG" alt="RGB LED" width="800"/>
 ## Verdrahtungsplan:
 Lichtsensor | ESP32
