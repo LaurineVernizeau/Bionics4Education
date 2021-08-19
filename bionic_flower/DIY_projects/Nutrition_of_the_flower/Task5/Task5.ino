@@ -23,7 +23,7 @@ In addition, when it's the day, the degree of opening of the flower depends on t
 #define I2C_SCL 22
 //LED pin
 #define LED_PIN 16
-//Moisture soil sensor pin
+//Moisture soil sensor pin (SDA pin)
 #define HUMIDITY_PIN 4
 
 /*Variable*/
